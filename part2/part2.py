@@ -69,7 +69,7 @@ fig.update_layout(
     xaxis_title = "Day"
 )
 
-fig.show()
+fig.show() 
 
 
 fig2=px.line(data,
